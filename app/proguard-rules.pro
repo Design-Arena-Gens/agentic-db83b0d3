@@ -1,0 +1,4 @@
+-dontnote kotlinx.coroutines.**
+-keep class com.google.mlkit.** { *; }
+-keep class com.google.firebase.** { *; }
+-keep class androidx.camera.** { *; }

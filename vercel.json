@@ -1,0 +1,1 @@
+{ "version": 2, "name": "agentic-db83b0d3", "builds": [{"src":"index.html","use":"@vercel/static"}] }

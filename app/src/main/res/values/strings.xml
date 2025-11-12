@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kitoko Packer</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="scan_invoice">Scan Invoice</string>
+    <string name="scan_products">Scan Products</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="order_packed">Order Packed</string>
+    <string name="already_packed">Already Packed</string>
+</resources>
